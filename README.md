@@ -2,7 +2,7 @@ We introduce our thesis project here, which evolves around testing some of the m
 
 We have a complete algo for testing the behavior of strategies given data. 
 
-The input data should be in the same structure as "cleanest_data_ever.csv", we cleaned that data from "closeframe.csv."
+The input data should be in the same structure as "cleanest_data_ever.csv", we cleaned that data from "closeframe.xlsx."
 
 You can use Yahoo Apis or pandas_datareader or yfinance to download the data from Yahoo Finance.
 
